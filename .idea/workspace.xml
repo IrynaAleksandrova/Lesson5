@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d8f2326-a956-4cb0-abcc-abc18a7743f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tren6/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +42,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/TeachMeSkills/Projects/Lesson5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task4.Main">
+  <component name="RunManager" selected="Application.Task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task1.Main" />
       <module name="Lesson5" />
@@ -109,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4.Main" />
         <item itemvalue="Application.Task3.Main" />
+        <item itemvalue="Application.Task4.Main" />
         <item itemvalue="Application.Task2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -125,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664863960958</updated>
       <workItem from="1664863962469" duration="8577000" />
+      <workItem from="1665069924392" duration="1874000" />
     </task>
     <servers />
   </component>
